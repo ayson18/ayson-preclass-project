@@ -13,4 +13,4 @@ def what_age(age)
   end
 end
 
-p is_adult?(21)
+p is_adult(21)
